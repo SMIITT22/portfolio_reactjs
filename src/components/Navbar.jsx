@@ -23,7 +23,10 @@ const Navbar = () => {
           }}
         >
           <img src={logo} alt="logo" className="w-9 h-9 object-contain" />
-          <p className="text-white text-[18px] font-bold cursor-pointer flex" style={{margin: "4px"}}>
+          <p
+            className="text-white text-[18px] font-bold cursor-pointer flex"
+            style={{ margin: '4px' }}
+          >
             SMIT &nbsp;
             <span className="sm:block hidden"> | Software developer</span>
           </p>
