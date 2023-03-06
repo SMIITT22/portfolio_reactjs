@@ -46,15 +46,15 @@ import {
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "ReactJS and NodeJS on AWS",
       icon: mobile,
     },
     {
-      title: "Backend Developer",
+      title: "Automating Cloud Deployments with Terraform",
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "Cloud-Based Data with MongoDB",
       icon: creator,
     },
   ];
