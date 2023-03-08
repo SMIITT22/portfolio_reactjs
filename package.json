@@ -20,6 +20,8 @@
     "react-router-dom": "^6.8.2",
     "react-three-fiber": "^6.0.13",
     "react-tilt": "^0.1.4",
+    "react-type-animation": "^2.1.2",
+    "react-typing-animation": "^1.6.2",
     "react-vertical-timeline-component": "^3.6.0",
     "three": "^0.150.1"
   },

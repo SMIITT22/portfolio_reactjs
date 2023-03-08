@@ -21,7 +21,7 @@ const About = () => {
               scale: 1,
               speed: 450,
             }}
-            className="bg-tertiary rounded-[20px] py-5 px-12 min-h-[280px] flex justify-evenly items-center flex-col"
+            className="bg-gray-600 rounded-[20px] py-5 px-12 min-h-[280px] flex justify-evenly items-center flex-col"
           >
             <img
               src={icon}
@@ -50,7 +50,7 @@ const About = () => {
         className="mt-4 text-secondary text-[17px] max-w-3xl
       leading-[30px]"
       >
-        Hey there! As a 20-year-old student with a burning passion for web
+        Hey there! As a <span className="text-[#915eff]">20-year-old</span> student with a burning passion for web
         development, nothing excites me more than cracking complex codes and
         designing innovative web applications that push the limits of what's
         possible. I am driven by the desire to build sleek, intuitive, and
